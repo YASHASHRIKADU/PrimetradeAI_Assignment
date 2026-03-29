@@ -4,7 +4,7 @@ A full-stack application built with the MERN stack (MongoDB, Express, React, Nod
 
 ## 🚀 Tech Stack
 
-**Frontend:** React.js (Vite), Axios, React-Router, React-Hot-Toast  
+**Frontend:** React.js (Vite), Axios, React-Router
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB with Mongoose  
 **Security/Auth:** JSON Web Tokens (JWT), bcryptjs, express-validator
